@@ -1,0 +1,28 @@
+name: Top Spec Tiling
+favicon: null
+layout_spectrum: 0.5648730967659503
+typography_spectrum: 0.8685642147902399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3688265630044043
+  lightness: 0.6935211645904928
+  saturation: 0.6469286736100912
+  rhythmicContrast: 0.48823827086016536
+purpose: []
